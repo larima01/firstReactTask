@@ -52,3 +52,18 @@ h1 {
   gap: 8px;
   font-weight: 500;
 }
+
+.task{
+  display:flex; 
+  justify-content: center; 
+  align-items: center;
+} 
+.count {
+  padding: 2px 12px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.tas{
+  text-align: center;
+}
