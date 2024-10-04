@@ -1,5 +1,5 @@
 import { StrictMode } from "react";
-import './App.css';
+import '../App.css';
 
 const skills = [
   {
@@ -33,7 +33,6 @@ const skills = [
     color: "#FF3B00"
   }
 ];
-
 function App() {
   return (
     <div className="card">

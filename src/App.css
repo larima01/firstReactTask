@@ -68,3 +68,12 @@ h1 {
   text-align: center;
 }
 
+button{
+  padding: 10px;
+  text-align: center;
+  margin: 2px;
+}
+
+.btn{
+  margin-top: 20px;
+}
