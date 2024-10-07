@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 // import App from './components/App';
-import Accord from './components/accordion';
+// import Accord from './components/accordion';
+import Task from './components/taskB';
 // import Task from './task2';
 // import Flashcards from './flashcard';
 // import Range from './components/range';
@@ -13,8 +14,9 @@ root.render(
     {/* <App /> */}
     {/* <Task />
     <Flashcards /> */}
-    <Accord />
+    {/* <Accord /> */}
     {/* <Range /> */}
+    <Task />
   </React.StrictMode>
 );
 
